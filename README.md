@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-Johnnyk84090984/Johnnyk84090984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Johnnyk84090984/Johnnyk84090984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.[2-Step Verification.pdf](https://github.com/Johnnyk84090984/Johnnyk84090984/files/11574360/2-Step.Verification.pdf)
+
 You can click the Preview link to take a look at your changes.
 --->
